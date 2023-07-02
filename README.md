@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ftb2024-official
+- 👋 Hi, I’m a FutureBillionaire
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me:
