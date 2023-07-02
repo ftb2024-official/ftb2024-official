@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ftb2024-official
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me:
 	Telegram: https://t.me/ftb2024_official
 	Email: ftb2024@gmail.com
