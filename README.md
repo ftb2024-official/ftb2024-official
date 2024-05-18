@@ -1,6 +1,4 @@
-- 👋 Hi, I’m a FutureBillionaire
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Golang
+- 👋 Hi, I’m a Go Backend Developer
 - 📫 How to reach me:
 	Telegram: https://t.me/ftb2024_official
 	Email: ftb2024@gmail.com
